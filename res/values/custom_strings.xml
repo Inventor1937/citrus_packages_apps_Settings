@@ -151,10 +151,6 @@
     <string name="vol_zen_title">Do not disturb switch</string>
     <string name="vol_zen_summary">Show do not disturb swith on volume panel</string>
 
-    <!-- Changelog -->
-    <string name="changelog_custom_title">Changelog</string>
-    <string name="changelog_custom_error">Unable to load changelog</string>
-
     <!-- App Ops Settings -->
     <!-- [CHAR LIMIT=NONE] App ops settings title, on main settings screen. If clicked, the user is taken to a settings screen for app operations -->
     <string name="app_ops_settings">App ops</string>
